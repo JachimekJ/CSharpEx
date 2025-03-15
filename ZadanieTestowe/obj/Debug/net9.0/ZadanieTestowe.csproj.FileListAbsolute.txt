@@ -1,0 +1,14 @@
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\bin\Debug\net9.0\ZadanieTestowe.exe
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\bin\Debug\net9.0\ZadanieTestowe.deps.json
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\bin\Debug\net9.0\ZadanieTestowe.runtimeconfig.json
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\bin\Debug\net9.0\ZadanieTestowe.dll
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\bin\Debug\net9.0\ZadanieTestowe.pdb
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.AssemblyInfoInputs.cache
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.AssemblyInfo.cs
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.csproj.CoreCompileInputs.cache
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.dll
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\refint\ZadanieTestowe.dll
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.pdb
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.genruntimeconfig.cache
+C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ref\ZadanieTestowe.dll
