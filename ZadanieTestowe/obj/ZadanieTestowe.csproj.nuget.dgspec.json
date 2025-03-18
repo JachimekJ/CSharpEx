@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj": {}
+    "c:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj": {
+    "c:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj",
+        "projectUniqueName": "c:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj",
         "projectName": "ZadanieTestowe",
-        "projectPath": "C:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj",
+        "projectPath": "c:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\ZadanieTestowe.csproj",
         "packagesPath": "C:\\Users\\Jachi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\obj\\",
+        "outputPath": "c:\\Users\\Jachi\\OneDrive\\Pulpit\\CSharpEx\\ZadanieTestowe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jachi\\AppData\\Roaming\\NuGet\\NuGet.Config"

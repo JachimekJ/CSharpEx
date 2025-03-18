@@ -12,3 +12,4 @@ C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\refint\Z
 C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.pdb
 C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.genruntimeconfig.cache
 C:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ref\ZadanieTestowe.dll
+c:\Users\Jachi\OneDrive\Pulpit\CSharpEx\ZadanieTestowe\obj\Debug\net9.0\ZadanieTestowe.sourcelink.json
